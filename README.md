@@ -23,14 +23,14 @@
 
 | **Course**                                                                                                                         | **Link**                                                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <a href="https://softuni.bg/trainings/3038/programming-basics-with-c-sharp-july-2020" > Programming Basics with C# </a>         | <a href="https://softuni.bg/certificates/details/88279/67298cb5"> Link</a> |
-| <a href="https://softuni.bg/trainings/3135/csharp-fundamentals-september-2020"> Technology Fundamentals with C# </a> | <a href="https://softuni.bg/Certificates/Details/96329/55ec9b17"> Link</a> |
-| <a href="https://softuni.bg/trainings/3210/csharp-advanced-january-2021/internal"> C# Advanced </a>                                             | <a href="https://softuni.bg/Certificates/Details/98090/d8953eef"> Link</a> |
-| <a href="https://softuni.bg/trainings/3214/csharp-oop-february-2021/internal"> C# OOP </a>                                                      | <a href="https://softuni.bg/Certificates/Details/104225/6fe2bd05"> Link </a> |
-| <a href="https://softuni.bg/trainings/3531/ms-sql-september-2021/internal?_se=YWxleGl2YW5vdnY0QGdtYWlsLmNvbQ%3D%3D"> Databases Basics - MS SQL Server </a>   | <a href="https://softuni.bg/certificates/details/113831/cebdfa99"> Link </a> |
+| <a href="https://softuni.bg/trainings/3038/programming-basics-with-c-sharp-july-2020" > Programming Basics with C# </a>            | <a href="https://softuni.bg/certificates/details/88279/67298cb5"> Link</a> |
+| <a href="https://softuni.bg/trainings/3135/csharp-fundamentals-september-2020"> Technology Fundamentals with C# </a>               | <a href="https://softuni.bg/Certificates/Details/96329/55ec9b17"> Link</a> |
+| <a href="https://softuni.bg/trainings/3210/csharp-advanced-january-2021/internal"> C# Advanced </a>                                | <a href="https://softuni.bg/Certificates/Details/98090/d8953eef"> Link</a> |
+| <a href="https://softuni.bg/trainings/3214/csharp-oop-february-2021/internal"> C# OOP </a>                                         | <a href="https://softuni.bg/Certificates/Details/104225/6fe2bd05"> Link </a> |
+| <a href="https://softuni.bg/trainings/3531/ms-sql-september-2021/internal"> Databases Basics - MS SQL Server </a>                  | <a href="https://softuni.bg/certificates/details/113831/cebdfa99"> Link </a> |
 | <a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021"> Entity Framework Core </a>                         | <a href="https://softuni.bg/certificates/details/119027/d43f88b6"> Link </a> |
-| <a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022"> C# Web Basics </a>                                     | <a href="https://softuni.bg/certificates/details/126305/3e072c8d"> Link </a> |
-| <a href="#"> ASP.NET Core </a>                                          | <a href="#"> Soon... </a> |
+| <a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022"> C# Web Basics </a>                              | <a href="https://softuni.bg/certificates/details/126305/3e072c8d"> Link </a> |
+| <a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022"> ASP.NET Core </a>                                      | <a href="https://softuni.bg/certificates/details/132638/a5c03682"> Link </a> |
 
 </td>
 <td>
@@ -46,8 +46,8 @@
 
 | **Course**                                                                               | **Link**                  |
 | ---------------------------------------------------------------------------------------- | ------------------------- |
-| <a href="#"> HTML & CSS </a> | <a href="#"> Soon... </a>  |
-| <a href="#"> Soon... </a>          | <a href="#"> Soon... </a> |
+| <a href="#"> HTML & CSS </a>                                                             | <a href="#"> Soon... </a>  |
+| <a href="#"> React JS </a>                                                               | <a href="#"> Soon... </a> |
 
 </td>
 </tr>
@@ -58,8 +58,10 @@
 
 <td>
 
-| **Diploma**      | **Link** |
-| ---------------- | -------- |
-| C# Web Developer | <a href="#"> Soon... </a> |
+| **Diploma**      | **Link** 				   |
+| ---------------- | --------                  |
+| Full Stack Web Developer | <a href="#"> Soon... </a> |
+| C# Web Developer		   | <a href="#"> Soon... </a> |
+| JS Web Developer		   | <a href="#"> Soon... </a> |
 
 </td>
